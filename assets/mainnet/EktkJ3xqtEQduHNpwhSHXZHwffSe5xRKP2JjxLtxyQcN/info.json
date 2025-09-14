@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "EktkJ3xqtEQduHNpwhSHXZHwffSe5xRKP2JjxLtxyQcN",
+  "symbol": "BBLITZZ",
+  "name": "Blitz Bison",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/blitzbison1000000000/blitz-bison-assets/main/200x200%20logo%20bblitzz.png",
+  "tags": ["meme", "community", "solana"],
+  "extensions": {
+    "website": "https://www.bblitzz.com",
+    "twitter": "https://x.com/BisonBlitz",
+    "telegram": "https://t.me/BlitzBisonBBLITZZCommunity",
+    "linktree": "https://linktr.ee/BBLITZZ"
+  }
+}
